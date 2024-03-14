@@ -1,3 +1,3 @@
 # GPU
 
-Efficient Implementation On GPU Platforms
+Efficient Implementation In GPU Platforms
